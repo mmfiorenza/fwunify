@@ -100,8 +100,7 @@ Ubuntu 20.04:
 
 
 ## Suporte
-Este software não possui nenhuma forma de suporte. Caso tenha alguma dúvida favor enviar um e-mail para mauriciofiorenza.aluno@unipampa.edu.br.
-
+Este software não possui nenhuma forma de suporte. 
 
 ## Creditos
 * Desenvolvimento: Maurício Fiorenza
